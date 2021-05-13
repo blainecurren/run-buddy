@@ -152,6 +152,7 @@ section {
 }
 
 .intro p {
+  text-align: center;
   line-height: 1.7;
   color: #39a6b2;
   width: 80%;
@@ -292,5 +293,8 @@ section {
 .contact-info a {
   color: #fce138;
 }
-
 /* REACH OUT STYLES END */
+
+.flex-row {
+  display: flex;
+}
